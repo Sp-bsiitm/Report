@@ -21,7 +21,7 @@ class: lead
 
 ---
 
-<!-- _backgroundImage: url('images/background.jpg') -->
+<!-- _backgroundImage: url('images/background.png') -->
 <!-- _class: lead -->
 
 # With Background Image
